@@ -1,14 +1,29 @@
-﻿var display;
+﻿/*
+* 5/5 Added setDisplaySize for customizable canvas size
+*/
+
+var display;
+
+function setDisplaySize(w, h){
+    if (display == null) {
+
+        display = new ROT.Display({ width: w, height: h, bg: "#1f2026", fontSize: 12 });
+        
+    }
+    display.setOptions({width: w, height: h});
+    var fontsize = display.computeFontSize(screen.availWidth * 0.7, screen.availHeight * 0.7);
+    display.setOptions({ fontSize: fontsize });
+}
 
 window.onload = function () {
     // Check if rot.js can work on this browser
     if (!ROT.isSupported()) {
         alert("The rot.js library isn't supported by your browser.");
     } else {
-
-        display = new ROT.Display({ width: 70, height: 25, bg: "#1f2026", fontSize: 12 });
-        var fontsize = display.computeFontSize(screen.availWidth * 0.7, screen.availHeight * 0.7);
-        display.setOptions({ fontSize: fontsize });
+        if (display == null) {
+            setDisplaySize(70, 25);
+        }
+        
         var container = display.getContainer();
         //container.setAttribute("align", "center");
         var cc = document.getElementById("canvas-container");

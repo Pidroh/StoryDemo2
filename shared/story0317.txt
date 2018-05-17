@@ -1,9 +1,4 @@
 ﻿Red Merlin can't stop crying. Desperate.
-We are in the middle of the catacombs, our faces lit by green light.
-Bones, corpses and dust litter the grounds. 
-The kind of place that would smell really bad.
-
-A dialog window pops up.
 
 Red Merlin: Don't do it, please.
 
@@ -11,40 +6,31 @@ The most powerful mage of the Moon guild is on the brink of death.
 
 He reaches out for a mana potion under his red vest.
 
-Death 34: Stop.
+Death 34: Don't drink that.
 
-If he drinks that I'll have no choice but to kill him.
+He looks back at me, frightened. He obeys.
 
-He looks back at me, frightened and puts the potion away.
+Red Merlin: We can make this work, I can be useful to you.
 
-Red Merlin: We can make this work, you know? I can be useful to you.
-
-He makes me sound like a cartoon villain. Let's try communicating.
+He makes me sound like a cartoon villain.
 
 Death 34: How old are you?
 
 Red Merlin: ??
 
-I know, it's awkward.
+I sit by his side.
 
-I sit by his side, amidst the dark mud.
-
-Death 34: Relax, let's just talk.
-
-He finally answers the question.
+Death 34: Talk to me.
 
 Red Merlin: I'm 14.
 
 Can't help but laugh. A little kid playing a seventy year old wizard.
-Let's continue the interview.
 
 Death 34: What made you start playing?
 
-This time he answers faster.
-
 Red Merlin: Everybody else in class was playing it.
 
-Same reason as me. I continue the conversation.
+Same reason as me.
 
 Death 34: I bet they are all dead now.
 
@@ -56,12 +42,11 @@ Red Merlin: I was.
 
 Red Merlin: When they first heard of my rank, they were pretty crazy about it.
 
-I can imagine that. 
-Good thing nobody knows I'm Death 34.
+Remembering nobody knows I'm Death 34 makes me relieved.
 
-Red Merlin: But I'm old news now.
+Red Merlin: Nobody cares anymore.
 
-Sorry, Merlin. After a quiet moment, he throws a question of his own.
+Sorry, Merlin.
 
 Red Merlin: You work at a gas station, right?
 
@@ -69,29 +54,23 @@ He reads those crappy forums, huh. Either that or his party enjoys good gossip.
 
 Death 34: Yeah.
 
-My heart heavies up as I confirm the lie.
+'Some lies are for the best', I tell myself, trying to shake off the guilty.
 
 Red Merlin: Why did you come here today?
 
-Not for the daily quests, that's for sure.
+It wasn't for the daily quests, that's for sure.
 
 Death 34: Guess.
 
-Red Merlin hesitates, but musters up the courage to type.
-
-Red Merlin: To kill me, I think. But why?
-
-I can't help but smile before answering his question.
+Red Merlin: To kill me. But why?
 
 Death 34: Because you're strong.
-
-He wasn't expecting that and had to take a second before replying.
 
 Red Merlin: You didn't seem to have trouble kicking my ass.
 
 Death 34: Well, yeah. I've been preparing for months. 
 
-I show him my five-star HellFire Pendant.
+I show him a necklace encrusted in rubies.
 
 Red Merlin: Wow!!! You defeated the Inferno Djinn?!
 
@@ -101,14 +80,11 @@ Death 34: No, player market.
 
 Red Merlin: Oh, okay.
 
-He seems disappointed.
-He has no idea of the trouble I went through to be able to get this.
+I can feel the disappointment.
 
-Red Merlin: I heard you preferred to kill people who really liked the game.
+Red Merlin: I thought you liked to kill people who really liked the game.
 
-He really did his homework on me. I reply with a question.
-
-Death 34: You don't like the game?
+Death 34: You don't like it?
 
 Red Merlin: Not that much.
 
@@ -116,25 +92,19 @@ Death 34: But you wanna keep playing, right?
 
 Red Merlin: Well, yeah.
 
-The image of the old mage drowning in tears comes back to my mind.
+Death 34: Red Merlin wasn't the only one crying back then, was he?
 
-Death 34: Red Merlin was crying back then.
+Red Merlin takes his time.
 
-Merlin takes his time before replying
-
-Red Merlin: I was crying too.
+Red Merlin: I cried too.
 
 Death 34: Because you care, right?
 
-Death 34: The strongest players are the ones who care the most.
-
-Death 34: That's what makes you worth killing.
-
-Merlin takes some time to think about it and finally replies.
+Death 34: You're worth killing.
 
 Red Merlin: Makes sense.
 
-I turn my eyes to the green flames, leaving Merlin to his thoughts.
+I turn my eyes to the flames in the catacombs, giving Merlin time to think.
 
 I imagine his fourteen year old self, swollen eyes, red from frustration.
 
@@ -152,18 +122,13 @@ Death 34: That's one of the reasons it feels so good, I think.
 
 Pretty embarassing stuff, but it feels good to be honest.
 
-Merlin continues the conversation.
-
 Red Merlin: I've always thought you were a jerk.
 
 Red Merlin: You're pretty cool.
 
-That last line makes my cheeks go from pink to red.
-I had fun but it's about time to wrap it up.
-
 Death 34: I'm still gonna do it though.
 
-I get up and draw my scythe. Merlin quickly replies.
+I get up and draw my scythe.
 
 Red Merlin: I know.
 
@@ -177,13 +142,9 @@ Yellow sparks blast off at the point where the blade meets his body.
 
 His life bar quickly decreasing. Gone. 
 
-My eyes moist up, yet I can't help but smirk. 
+My eyes moist up, yet I can't help but smirk. I take a deep, long breath as I move back to town.
 
-I take a deep, long breath as I move back to town so I can log out.
-
-I reach out for my notebook as I close the game.
-
-I'm alone in my room, surrounded in posters of old games and cartoons.
+I reach out for my notebook as I log out.
 
 All that time preparing were for this moment. 
 This tingling electricity running through my body as I slash 'Red Merlin' from the list.

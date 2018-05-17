@@ -10,8 +10,19 @@ function setDisplaySize(w, h){
         display = new ROT.Display({ width: w, height: h, bg: "#1f2026", fontSize: 12 });
         
     }
-    display.setOptions({width: w, height: h});
-    var fontsize = display.computeFontSize(screen.availWidth * 0.7, screen.availHeight * 0.7);
+    display.setOptions({ width: w, height: h });
+    var sw = screen.availWidth;
+    var sh = screen.availHeight;
+    sw = $(window).height()
+    sh = $(window).width()
+    sw = window.innerWidth
+    sh = window.innerHeight
+    //alert(screen.availHeight)
+    //alert(screen.height)
+    //alert()
+    //if (sw > sh) sw = sh;
+    //else sh = sw;
+    var fontsize = display.computeFontSize(sw, sh);
     display.setOptions({ fontSize: fontsize });
 }
 
@@ -21,15 +32,23 @@ window.onload = function () {
         alert("The rot.js library isn't supported by your browser.");
     } else {
         if (display == null) {
-            setDisplaySize(70, 25);
+            setDisplaySize(10, 10);
         }
-        
+        window.addEventListener('resize', function (event) {
+            setDisplaySize(display.getOptions().width, display.getOptions().height)
+        });
         var container = display.getContainer();
         //container.setAttribute("align", "center");
+        
         var cc = document.getElementById("canvas-container");
+        //var cc = document.body;
         //cc = document.createElement("div");
-        console.log(cc);
+        //console.log(cc);
+        //container.setAttribute('height', '100%')
+        //container.setAttribute('width', '100%')
+        //alert(container.innerHTML)
         cc.appendChild(container);
+        //alert(container.width)
         
         // Add the container to our HTML page
         //document.body.appendChild(container);
